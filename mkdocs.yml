@@ -1,3 +1,13 @@
 site_name: DYO.au
 theme:
   name: material
+  theme:
+  logo: assets/logo-w.png
+  favicon: /assets/images/favicon.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    scheme: slate
+    primary: white
+    accent: red
